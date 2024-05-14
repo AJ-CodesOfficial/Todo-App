@@ -15,8 +15,8 @@ Welcome to the Todo App! This project is designed to help you keep track of your
 To use the Todo App, follow these steps:
 1. Clone the repository: `git clone https://github.com/AJ-CodesOfficial/Todo-App.git`.
 2. Navigate to the project directory: `cd Todo-App`.
-3. Install the requirements: `pip install -r requirements. txt`.
-4. Convert the [.env.example](/.env.example) file to a .env file and fill in the details.
+3. Install the requirements: `pip install -r requirements.txt`.
+4. Convert the [.env.example](/.env.example) file to a `.env` file and fill in the details.
 5. Start the application: `python app.py`.
 
 ## Usage
